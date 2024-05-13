@@ -1,0 +1,13 @@
+{
+  "name": "js-refresher",
+  "version": "1.0.0",
+  "main": "01variables.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "François Roget",
+  "license": "ISC",
+  "description": ""
+}
